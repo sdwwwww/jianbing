@@ -1,1101 +1,1097 @@
-LF_SJIS
-//
-
 hotdog
 	-annotation "RegionKeysToolNameCommand"
 	-sourceType "mel"
-	-command ("RegionKeysTool")
+	-mingling ("RegionKeysTool")
 	RegionKeysToolNameCommand;
 
 hotdog
 	-annotation "LatticeDeformKeysToolNameCommand"
 	-sourceType "mel"
-	-command ("LatticeDeformKeysTool")
+	-mingling ("LatticeDeformKeysTool")
 	LatticeDeformKeysToolNameCommand;
 
 hotdog
 	-annotation "RetimeKeysToolNameCommand"
 	-sourceType "mel"
-	-command ("RetimeKeysTool")
+	-mingling ("RetimeKeysTool")
 	RetimeKeysToolNameCommand;
 
 hotdog
 	-annotation "RemoveInbetweenNameCommand"
 	-sourceType "mel"
-	-command ("RemoveInbetween")
+	-mingling ("RemoveInbetween")
 	RemoveInbetweenNameCommand;
 
 hotdog
 	-annotation "AddInbetweenNameCommand"
 	-sourceType "mel"
-	-command ("AddInbetween")
+	-mingling ("AddInbetween")
 	AddInbetweenNameCommand;
 
 hotdog
 	-annotation "C_ins1NameCommand"
 	-sourceType "mel"
-	-command ("C_ins1")
+	-mingling ("C_ins1")
 	C_ins1NameCommand;
 
 hotdog
 	-annotation "C_ins2NameCommand"
 	-sourceType "mel"
-	-command ("C_ins2")
+	-mingling ("C_ins2")
 	C_ins2NameCommand;
 
 hotdog
 	-annotation "C_ins3NameCommand"
 	-sourceType "mel"
-	-command ("C_ins3")
+	-mingling ("C_ins3")
 	C_ins3NameCommand;
 
 hotdog
 	-annotation "C_home1NameCommand"
 	-sourceType "mel"
-	-command ("C_home1")
+	-mingling ("C_home1")
 	C_home1NameCommand;
 
 hotdog
 	-annotation "C_home2NameCommand"
 	-sourceType "mel"
-	-command ("C_home2")
+	-mingling ("C_home2")
 	C_home2NameCommand;
 
 hotdog
 	-annotation "C_home3NameCommand"
 	-sourceType "mel"
-	-command ("C_home3")
+	-mingling ("C_home3")
 	C_home3NameCommand;
 
 hotdog
 	-annotation "C_pgup1NameCommand"
 	-sourceType "mel"
-	-command ("C_pgup1")
+	-mingling ("C_pgup1")
 	C_pgup1NameCommand;
 
 hotdog
 	-annotation "C_pgup2NameCommand"
 	-sourceType "mel"
-	-command ("C_pgup2")
+	-mingling ("C_pgup2")
 	C_pgup2NameCommand;
 
 hotdog
 	-annotation "C_pgup3NameCommand"
 	-sourceType "mel"
-	-command ("C_pgup3")
+	-mingling ("C_pgup3")
 	C_pgup3NameCommand;
 
 hotdog
 	-annotation "C_end1NameCommand"
 	-sourceType "mel"
-	-command ("C_end1")
+	-mingling ("C_end1")
 	C_end1NameCommand;
 
 hotdog
 	-annotation "C_end2NameCommand"
 	-sourceType "mel"
-	-command ("C_end2")
+	-mingling ("C_end2")
 	C_end2NameCommand;
 
 hotdog
 	-annotation "C_end3NameCommand"
 	-sourceType "mel"
-	-command ("C_end3")
+	-mingling ("C_end3")
 	C_end3NameCommand;
 
 hotdog
 	-annotation "C_pgdown1NameCommand"
 	-sourceType "mel"
-	-command ("C_pgdown1")
+	-mingling ("C_pgdown1")
 	C_pgdown1NameCommand;
 
 hotdog
 	-annotation "C_pgdown2NameCommand"
 	-sourceType "mel"
-	-command ("C_pgdown2")
+	-mingling ("C_pgdown2")
 	C_pgdown2NameCommand;
 
 hotdog
 	-annotation "C_pgdown3NameCommand"
 	-sourceType "mel"
-	-command ("C_pgdown3")
+	-mingling ("C_pgdown3")
 	C_pgdown3NameCommand;
 
 hotdog
 	-annotation "D_plus1NameCommand"
 	-sourceType "mel"
-	-command ("D_plus1")
+	-mingling ("D_plus1")
 	D_plus1NameCommand;
 
 hotdog
 	-annotation "D_plus2NameCommand"
 	-sourceType "mel"
-	-command ("D_plus2")
+	-mingling ("D_plus2")
 	D_plus2NameCommand;
 
 hotdog
 	-annotation "D_plus3NameCommand"
 	-sourceType "mel"
-	-command ("D_plus3")
+	-mingling ("D_plus3")
 	D_plus3NameCommand;
 
 hotdog
 	-annotation "A_pp1NameCommand"
 	-sourceType "mel"
-	-command ("A_pp1")
+	-mingling ("A_pp1")
 	A_pp1NameCommand;
 
 hotdog
 	-annotation "A_pp2NameCommand"
 	-sourceType "mel"
-	-command ("A_pp2")
+	-mingling ("A_pp2")
 	A_pp2NameCommand;
 
 hotdog
 	-annotation "A_pp3NameCommand"
 	-sourceType "mel"
-	-command ("A_pp3")
+	-mingling ("A_pp3")
 	A_pp3NameCommand;
 
 hotdog
 	-annotation "A_pp4NameCommand"
 	-sourceType "mel"
-	-command ("A_pp4")
+	-mingling ("A_pp4")
 	A_pp4NameCommand;
 
 hotdog
 	-annotation "A_qq1NameCommand"
 	-sourceType "mel"
-	-command ("A_qq1")
+	-mingling ("A_qq1")
 	A_qq1NameCommand;
 
 hotdog
 	-annotation "A_qq2NameCommand"
 	-sourceType "mel"
-	-command ("A_qq2")
+	-mingling ("A_qq2")
 	A_qq2NameCommand;
 
 hotdog
 	-annotation "A_qq3NameCommand"
 	-sourceType "mel"
-	-command ("A_qq3")
+	-mingling ("A_qq3")
 	A_qq3NameCommand;
 
 hotdog
 	-annotation "A_qq4NameCommand"
 	-sourceType "mel"
-	-command ("A_qq4")
+	-mingling ("A_qq4")
 	A_qq4NameCommand;
 
 hotdog
 	-annotation "A_z1NameCommand"
 	-sourceType "mel"
-	-command ("A_z1")
+	-mingling ("A_z1")
 	A_z1NameCommand;
 
 hotdog
 	-annotation "A_z2NameCommand"
 	-sourceType "mel"
-	-command ("A_z2")
+	-mingling ("A_z2")
 	A_z2NameCommand;
 
 hotdog
 	-annotation "A_z3NameCommand"
 	-sourceType "mel"
-	-command ("A_z3")
+	-mingling ("A_z3")
 	A_z3NameCommand;
 
 hotdog
 	-annotation "A_x1NameCommand"
 	-sourceType "mel"
-	-command ("A_x1")
+	-mingling ("A_x1")
 	A_x1NameCommand;
 
 hotdog
 	-annotation "A_x2NameCommand"
 	-sourceType "mel"
-	-command ("A_x2")
+	-mingling ("A_x2")
 	A_x2NameCommand;
 
 hotdog
 	-annotation "A_a1NameCommand"
 	-sourceType "mel"
-	-command ("A_a1")
+	-mingling ("A_a1")
 	A_a1NameCommand;
 
 hotdog
 	-annotation "A_c1NameCommand"
 	-sourceType "mel"
-	-command ("A_c1")
+	-mingling ("A_c1")
 	A_c1NameCommand;
 
 hotdog
 	-annotation "A_c2NameCommand"
 	-sourceType "mel"
-	-command ("A_c2")
+	-mingling ("A_c2")
 	A_c2NameCommand;
 
 hotdog
 	-annotation "A_v1NameCommand"
 	-sourceType "mel"
-	-command ("A_v1")
+	-mingling ("A_v1")
 	A_v1NameCommand;
 
 hotdog
 	-annotation "A_s1NameCommand"
 	-sourceType "mel"
-	-command ("A_s1")
+	-mingling ("A_s1")
 	A_s1NameCommand;
 
 hotdog
 	-annotation "A_s2NameCommand"
 	-sourceType "mel"
-	-command ("A_s2")
+	-mingling ("A_s2")
 	A_s2NameCommand;
 
 hotdog
 	-annotation "A_s3NameCommand"
 	-sourceType "mel"
-	-command ("A_s3")
+	-mingling ("A_s3")
 	A_s3NameCommand;
 
 hotdog
 	-annotation "A_s4NameCommand"
 	-sourceType "mel"
-	-command ("A_s4")
+	-mingling ("A_s4")
 	A_s4NameCommand;
 
 hotdog
 	-annotation "A_s5NameCommand"
 	-sourceType "mel"
-	-command ("A_s5")
+	-mingling ("A_s5")
 	A_s5NameCommand;
 
 hotdog
 	-annotation "A_s6NameCommand"
 	-sourceType "mel"
-	-command ("A_s6")
+	-mingling ("A_s6")
 	A_s6NameCommand;
 
 hotdog
 	-annotation "A_q1NameCommand"
 	-sourceType "mel"
-	-command ("A_q1")
+	-mingling ("A_q1")
 	A_q1NameCommand;
 
 hotdog
 	-annotation "A_q2NameCommand"
 	-sourceType "mel"
-	-command ("A_q2")
+	-mingling ("A_q2")
 	A_q2NameCommand;
 
 hotdog
 	-annotation "A_q3NameCommand"
 	-sourceType "mel"
-	-command ("A_q3")
+	-mingling ("A_q3")
 	A_q3NameCommand;
 
 hotdog
 	-annotation "A_q4NameCommand"
 	-sourceType "mel"
-	-command ("A_q4")
+	-mingling ("A_q4")
 	A_q4NameCommand;
 
 hotdog
 	-annotation "A_q5NameCommand"
 	-sourceType "mel"
-	-command ("A_q5")
+	-mingling ("A_q5")
 	A_q5NameCommand;
 
 hotdog
 	-annotation "A_q6NameCommand"
 	-sourceType "mel"
-	-command ("A_q6")
+	-mingling ("A_q6")
 	A_q6NameCommand;
 
 hotdog
 	-annotation "A_q7NameCommand"
 	-sourceType "mel"
-	-command ("A_q7")
+	-mingling ("A_q7")
 	A_q7NameCommand;
 
 hotdog
 	-annotation "A_w1NameCommand"
 	-sourceType "mel"
-	-command ("A_w1")
+	-mingling ("A_w1")
 	A_w1NameCommand;
 
 hotdog
 	-annotation "A_w2NameCommand"
 	-sourceType "mel"
-	-command ("A_w2")
+	-mingling ("A_w2")
 	A_w2NameCommand;
 
 hotdog
 	-annotation "A_w3NameCommand"
 	-sourceType "mel"
-	-command ("A_w3")
+	-mingling ("A_w3")
 	A_w3NameCommand;
 
 hotdog
 	-annotation "A_w4NameCommand"
 	-sourceType "mel"
-	-command ("A_w4")
+	-mingling ("A_w4")
 	A_w4NameCommand;
 
 hotdog
 	-annotation "A_e1NameCommand"
 	-sourceType "mel"
-	-command ("A_e1")
+	-mingling ("A_e1")
 	A_e1NameCommand;
 
 hotdog
 	-annotation "A_e2NameCommand"
 	-sourceType "mel"
-	-command ("A_e2")
+	-mingling ("A_e2")
 	A_e2NameCommand;
 
 hotdog
 	-annotation "A_e3NameCommand"
 	-sourceType "mel"
-	-command ("A_e3")
+	-mingling ("A_e3")
 	A_e3NameCommand;
 
 hotdog
 	-annotation "A_e4NameCommand"
 	-sourceType "mel"
-	-command ("A_e4")
+	-mingling ("A_e4")
 	A_e4NameCommand;
 
 hotdog
 	-annotation "A_e5NameCommand"
 	-sourceType "mel"
-	-command ("A_e5")
+	-mingling ("A_e5")
 	A_e5NameCommand;
 
 hotdog
 	-annotation "A_r1NameCommand"
 	-sourceType "mel"
-	-command ("A_r1")
+	-mingling ("A_r1")
 	A_r1NameCommand;
 
 hotdog
 	-annotation "A_r2NameCommand"
 	-sourceType "mel"
-	-command ("A_r2")
+	-mingling ("A_r2")
 	A_r2NameCommand;
 
 hotdog
 	-annotation "A_r3NameCommand"
 	-sourceType "mel"
-	-command ("A_r3")
+	-mingling ("A_r3")
 	A_r3NameCommand;
 
 hotdog
 	-annotation "A_r4NameCommand"
 	-sourceType "mel"
-	-command ("A_r4")
+	-mingling ("A_r4")
 	A_r4NameCommand;
 
 hotdog
 	-annotation "A_r5NameCommand"
 	-sourceType "mel"
-	-command ("A_r5")
+	-mingling ("A_r5")
 	A_r5NameCommand;
 
 hotdog
 	-annotation "A_d1NameCommand"
 	-sourceType "mel"
-	-command ("A_d1")
+	-mingling ("A_d1")
 	A_d1NameCommand;
 
 hotdog
 	-annotation "A_t1NameCommand"
 	-sourceType "mel"
-	-command ("A_t1")
+	-mingling ("A_t1")
 	A_t1NameCommand;
 
 hotdog
 	-annotation "A_1aNameCommand"
 	-sourceType "mel"
-	-command ("A_1a")
+	-mingling ("A_1a")
 	A_1aNameCommand;
 
 hotdog
 	-annotation "A_1bNameCommand"
 	-sourceType "mel"
-	-command ("A_1b")
+	-mingling ("A_1b")
 	A_1bNameCommand;
 
 hotdog
 	-annotation "A_1cNameCommand"
 	-sourceType "mel"
-	-command ("A_1c")
+	-mingling ("A_1c")
 	A_1cNameCommand;
 
 hotdog
 	-annotation "A_1dNameCommand"
 	-sourceType "mel"
-	-command ("A_1d")
+	-mingling ("A_1d")
 	A_1dNameCommand;
 
 hotdog
 	-annotation "A_1eNameCommand"
 	-sourceType "mel"
-	-command ("A_1e")
+	-mingling ("A_1e")
 	A_1eNameCommand;
 
 hotdog
 	-annotation "A_1fNameCommand"
 	-sourceType "mel"
-	-command ("A_1f")
+	-mingling ("A_1f")
 	A_1fNameCommand;
 
 hotdog
 	-annotation "A_1gNameCommand"
 	-sourceType "mel"
-	-command ("A_1g")
+	-mingling ("A_1g")
 	A_1gNameCommand;
 
 hotdog
 	-annotation "A_1hNameCommand"
 	-sourceType "mel"
-	-command ("A_1h")
+	-mingling ("A_1h")
 	A_1hNameCommand;
 
 hotdog
 	-annotation "A_2aNameCommand"
 	-sourceType "mel"
-	-command ("A_2a")
+	-mingling ("A_2a")
 	A_2aNameCommand;
 
 hotdog
 	-annotation "A_2bNameCommand"
 	-sourceType "mel"
-	-command ("A_2b")
+	-mingling ("A_2b")
 	A_2bNameCommand;
 
 hotdog
 	-annotation "A_2cNameCommand"
 	-sourceType "mel"
-	-command ("A_2c")
+	-mingling ("A_2c")
 	A_2cNameCommand;
 
 hotdog
 	-annotation "A_2dNameCommand"
 	-sourceType "mel"
-	-command ("A_2d")
+	-mingling ("A_2d")
 	A_2dNameCommand;
 
 hotdog
 	-annotation "A_2eNameCommand"
 	-sourceType "mel"
-	-command ("A_2e")
+	-mingling ("A_2e")
 	A_2eNameCommand;
 
 hotdog
 	-annotation "A_2fNameCommand"
 	-sourceType "mel"
-	-command ("A_2f")
+	-mingling ("A_2f")
 	A_2fNameCommand;
 
 hotdog
 	-annotation "A_2gNameCommand"
 	-sourceType "mel"
-	-command ("A_2g")
+	-mingling ("A_2g")
 	A_2gNameCommand;
 
 hotdog
 	-annotation "A_2hNameCommand"
 	-sourceType "mel"
-	-command ("A_2h")
+	-mingling ("A_2h")
 	A_2hNameCommand;
 
 hotdog
 	-annotation "A_3aNameCommand"
 	-sourceType "mel"
-	-command ("A_3a")
+	-mingling ("A_3a")
 	A_3aNameCommand;
 
 hotdog
 	-annotation "A_3bNameCommand"
 	-sourceType "mel"
-	-command ("A_3b")
+	-mingling ("A_3b")
 	A_3bNameCommand;
 
 hotdog
 	-annotation "A_3cNameCommand"
 	-sourceType "mel"
-	-command ("A_3c")
+	-mingling ("A_3c")
 	A_3cNameCommand;
 
 hotdog
 	-annotation "A_3dNameCommand"
 	-sourceType "mel"
-	-command ("A_3d")
+	-mingling ("A_3d")
 	A_3dNameCommand;
 
 hotdog
 	-annotation "A_3eNameCommand"
 	-sourceType "mel"
-	-command ("A_3e")
+	-mingling ("A_3e")
 	A_3eNameCommand;
 
 hotdog
 	-annotation "A_3fNameCommand"
 	-sourceType "mel"
-	-command ("A_3f")
+	-mingling ("A_3f")
 	A_3fNameCommand;
 
 hotdog
 	-annotation "A_3gNameCommand"
 	-sourceType "mel"
-	-command ("A_3g")
+	-mingling ("A_3g")
 	A_3gNameCommand;
 
 hotdog
 	-annotation "A_4aNameCommand"
 	-sourceType "mel"
-	-command ("A_4a")
+	-mingling ("A_4a")
 	A_4aNameCommand;
 
 hotdog
 	-annotation "A_4bNameCommand"
 	-sourceType "mel"
-	-command ("A_4b")
+	-mingling ("A_4b")
 	A_4bNameCommand;
 
 hotdog
 	-annotation "A_4cNameCommand"
 	-sourceType "mel"
-	-command ("A_4c")
+	-mingling ("A_4c")
 	A_4cNameCommand;
 
 hotdog
 	-annotation "A_4dNameCommand"
 	-sourceType "mel"
-	-command ("A_4d")
+	-mingling ("A_4d")
 	A_4dNameCommand;
 
 hotdog
 	-annotation "A_4eNameCommand"
 	-sourceType "mel"
-	-command ("A_4e")
+	-mingling ("A_4e")
 	A_4eNameCommand;
 
 hotdog
 	-annotation "A_4fNameCommand"
 	-sourceType "mel"
-	-command ("A_4f")
+	-mingling ("A_4f")
 	A_4fNameCommand;
 
 hotdog
 	-annotation "A_4gNameCommand"
 	-sourceType "mel"
-	-command ("A_4g")
+	-mingling ("A_4g")
 	A_4gNameCommand;
 
 hotdog
 	-annotation "A_5aNameCommand"
 	-sourceType "mel"
-	-command ("A_5a")
+	-mingling ("A_5a")
 	A_5aNameCommand;
 
 hotdog
 	-annotation "A_5bNameCommand"
 	-sourceType "mel"
-	-command ("A_5b")
+	-mingling ("A_5b")
 	A_5bNameCommand;
 
 hotdog
 	-annotation "A_5cNameCommand"
 	-sourceType "mel"
-	-command ("A_5c")
+	-mingling ("A_5c")
 	A_5cNameCommand;
 
 hotdog
 	-annotation "A_5dNameCommand"
 	-sourceType "mel"
-	-command ("A_5d")
+	-mingling ("A_5d")
 	A_5dNameCommand;
 
 hotdog
 	-annotation "A_5eNameCommand"
 	-sourceType "mel"
-	-command ("A_5e")
+	-mingling ("A_5e")
 	A_5eNameCommand;
 
 hotdog
 	-annotation "A_8aNameCommand"
 	-sourceType "mel"
-	-command ("A_8a")
+	-mingling ("A_8a")
 	A_8aNameCommand;
 
 hotdog
 	-annotation "A_9aNameCommand"
 	-sourceType "mel"
-	-command ("A_9a")
+	-mingling ("A_9a")
 	A_9aNameCommand;
 
 hotdog
 	-annotation "B_F1aNameCommand"
 	-sourceType "mel"
-	-command ("B_F1a")
+	-mingling ("B_F1a")
 	B_F1aNameCommand;
 
 hotdog
 	-annotation "B_F1bNameCommand"
 	-sourceType "mel"
-	-command ("B_F1b")
+	-mingling ("B_F1b")
 	B_F1bNameCommand;
 
 hotdog
 	-annotation "B_F1cNameCommand"
 	-sourceType "mel"
-	-command ("B_F1c")
+	-mingling ("B_F1c")
 	B_F1cNameCommand;
 
 hotdog
 	-annotation "B_F1eNameCommand"
 	-sourceType "mel"
-	-command ("B_F1e")
+	-mingling ("B_F1e")
 	B_F1eNameCommand;
 
 hotdog
 	-annotation "B_F2aNameCommand"
 	-sourceType "mel"
-	-command ("B_F2a")
+	-mingling ("B_F2a")
 	B_F2aNameCommand;
 
 hotdog
 	-annotation "B_F2bNameCommand"
 	-sourceType "mel"
-	-command ("B_F2b")
+	-mingling ("B_F2b")
 	B_F2bNameCommand;
 
 hotdog
 	-annotation "B_F2cNameCommand"
 	-sourceType "mel"
-	-command ("B_F2c")
+	-mingling ("B_F2c")
 	B_F2cNameCommand;
 
 hotdog
 	-annotation "B_F2eNameCommand"
 	-sourceType "mel"
-	-command ("B_F2e")
+	-mingling ("B_F2e")
 	B_F2eNameCommand;
 
 hotdog
 	-annotation "B_F3aNameCommand"
 	-sourceType "mel"
-	-command ("B_F3a")
+	-mingling ("B_F3a")
 	B_F3aNameCommand;
 
 hotdog
 	-annotation "B_F3bNameCommand"
 	-sourceType "mel"
-	-command ("B_F3b")
+	-mingling ("B_F3b")
 	B_F3bNameCommand;
 
 hotdog
 	-annotation "B_F3cNameCommand"
 	-sourceType "mel"
-	-command ("B_F3c")
+	-mingling ("B_F3c")
 	B_F3cNameCommand;
 
 hotdog
 	-annotation "B_F3eNameCommand"
 	-sourceType "mel"
-	-command ("B_F3e")
+	-mingling ("B_F3e")
 	B_F3eNameCommand;
 
 hotdog
 	-annotation "B_F4aNameCommand"
 	-sourceType "mel"
-	-command ("B_F4a")
+	-mingling ("B_F4a")
 	B_F4aNameCommand;
 
 hotdog
 	-annotation "B_F4eNameCommand"
 	-sourceType "mel"
-	-command ("B_F4e")
+	-mingling ("B_F4e")
 	B_F4eNameCommand;
 
 hotdog
 	-annotation "B_F7aNameCommand"
 	-sourceType "mel"
-	-command ("B_F7a")
+	-mingling ("B_F7a")
 	B_F7aNameCommand;
 
 hotdog
 	-annotation "B_F7bNameCommand"
 	-sourceType "mel"
-	-command ("B_F7b")
+	-mingling ("B_F7b")
 	B_F7bNameCommand;
 
 hotdog
 	-annotation "B_F8aNameCommand"
 	-sourceType "mel"
-	-command ("B_F8a")
+	-mingling ("B_F8a")
 	B_F8aNameCommand;
 
 hotdog
 	-annotation "B_F8bNameCommand"
 	-sourceType "mel"
-	-command ("B_F8b")
+	-mingling ("B_F8b")
 	B_F8bNameCommand;
 
 hotdog
 	-annotation "B_F8cNameCommand"
 	-sourceType "mel"
-	-command ("B_F8c")
+	-mingling ("B_F8c")
 	B_F8cNameCommand;
 
 hotdog
 	-annotation "B_F8dNameCommand"
 	-sourceType "mel"
-	-command ("B_F8d")
+	-mingling ("B_F8d")
 	B_F8dNameCommand;
 
 hotdog
 	-annotation "B_F9aNameCommand"
 	-sourceType "mel"
-	-command ("B_F9a")
+	-mingling ("B_F9a")
 	B_F9aNameCommand;
 
 hotdog
 	-annotation "B_F9bNameCommand"
 	-sourceType "mel"
-	-command ("B_F9b")
+	-mingling ("B_F9b")
 	B_F9bNameCommand;
 
 hotdog
 	-annotation "B_F9cNameCommand"
 	-sourceType "mel"
-	-command ("B_F9c")
+	-mingling ("B_F9c")
 	B_F9cNameCommand;
 
 hotdog
 	-annotation "B_F10aNameCommand"
 	-sourceType "mel"
-	-command ("B_F10a")
+	-mingling ("B_F10a")
 	B_F10aNameCommand;
 
 hotdog
 	-annotation "B_F10bNameCommand"
 	-sourceType "mel"
-	-command ("B_F10b")
+	-mingling ("B_F10b")
 	B_F10bNameCommand;
 
 hotdog
 	-annotation "B_F10cNameCommand"
 	-sourceType "mel"
-	-command ("B_F10c")
+	-mingling ("B_F10c")
 	B_F10cNameCommand;
 
 hotdog
 	-annotation "B_F11aNameCommand"
 	-sourceType "mel"
-	-command ("B_F11a")
+	-mingling ("B_F11a")
 	B_F11aNameCommand;
 
 hotdog
 	-annotation "B_F11bNameCommand"
 	-sourceType "mel"
-	-command ("B_F11b")
+	-mingling ("B_F11b")
 	B_F11bNameCommand;
 
 hotdog
 	-annotation "B_F11cNameCommand"
 	-sourceType "mel"
-	-command ("B_F11c")
+	-mingling ("B_F11c")
 	B_F11cNameCommand;
 
 hotdog
 	-annotation "B_F11dNameCommand"
 	-sourceType "mel"
-	-command ("B_F11d")
+	-mingling ("B_F11d")
 	B_F11dNameCommand;
 
 hotdog
 	-annotation "B_F12aNameCommand"
 	-sourceType "mel"
-	-command ("B_F12a")
+	-mingling ("B_F12a")
 	B_F12aNameCommand;
 
 hotdog
 	-annotation "B_F12bNameCommand"
 	-sourceType "mel"
-	-command ("B_F12b")
+	-mingling ("B_F12b")
 	B_F12bNameCommand;
 
 hotdog
 	-annotation "TangentsAutoNameCommand"
 	-sourceType "mel"
-	-command ("TangentsAuto")
+	-mingling ("TangentsAuto")
 	TangentsAutoNameCommand;
 
 hotdog
 	-annotation "InTangentAutoNameCommand"
 	-sourceType "mel"
-	-command ("InTangentAuto")
+	-mingling ("InTangentAuto")
 	InTangentAutoNameCommand;
 
 hotdog
 	-annotation "B_F9dNameCommand"
 	-sourceType "mel"
-	-command ("B_F9d")
+	-mingling ("B_F9d")
 	B_F9dNameCommand;
 
 hotdog
 	-annotation "B_F10dNameCommand"
 	-sourceType "mel"
-	-command ("D_jian")
+	-mingling ("D_jian")
 	B_F10dNameCommand;
 
 hotdog
 	-annotation "A_11aNameCommand"
 	-sourceType "mel"
-	-command ("A_11a")
+	-mingling ("A_11a")
 	A_11aNameCommand;
 
 hotdog
 	-annotation "A_11bNameCommand"
 	-sourceType "mel"
-	-command ("A_11b")
+	-mingling ("A_11b")
 	A_11bNameCommand;
 
 hotdog
 	-annotation "B_F1dNameCommand"
 	-sourceType "mel"
-	-command ("B_F1d")
+	-mingling ("B_F1d")
 	B_F1dNameCommand;
 
 hotdog
 	-annotation "B_F4dNameCommand"
 	-sourceType "mel"
-	-command ("B_F4d")
+	-mingling ("B_F4d")
 	B_F4dNameCommand;
 
 hotdog
 	-annotation "A_0aNameCommand"
 	-sourceType "mel"
-	-command ("A_0a")
+	-mingling ("A_0a")
 	A_0aNameCommand;
 
 hotdog
 	-annotation "C_up1NameCommand"
 	-sourceType "mel"
-	-command ("C_up1")
+	-mingling ("C_up1")
 	C_up1NameCommand;
 
 hotdog
 	-annotation "C_down1NameCommand"
 	-sourceType "mel"
-	-command ("C_down1")
+	-mingling ("C_down1")
 	C_down1NameCommand;
 
 hotdog
 	-annotation "C_left1NameCommand"
 	-sourceType "mel"
-	-command ("C_left1")
+	-mingling ("C_left1")
 	C_left1NameCommand;
 
 hotdog
 	-annotation "C_right1NameCommand"
 	-sourceType "mel"
-	-command ("C_right1")
+	-mingling ("C_right1")
 	C_right1NameCommand;
 
 hotdog
 	-annotation "B_F2dNameCommand"
 	-sourceType "mel"
-	-command ("B_F2d")
+	-mingling ("B_F2d")
 	B_F2dNameCommand;
 
 hotdog
 	-annotation "B_F3dNameCommand"
 	-sourceType "mel"
-	-command ("D_jia")
+	-mingling ("D_jia")
 	B_F3dNameCommand;
 
 hotdog
 	-annotation "EnterEditModeNameCommand"
 	-sourceType "mel"
-	-command ("EnterEditMode")
+	-mingling ("EnterEditMode")
 	EnterEditModeNameCommand;
 
 hotdog
 	-annotation "A_g1NameCommand"
 	-sourceType "mel"
-	-command ("A_g1")
+	-mingling ("A_g1")
 	A_g1NameCommand;
 
 hotdog
 	-annotation "RedoNameCommand"
 	-sourceType "mel"
-	-command ("Redo")
+	-mingling ("Redo")
 	RedoNameCommand;
 
 hotdog
 	-annotation "A_c3NameCommand"
 	-sourceType "mel"
-	-command ("A_c3")
+	-mingling ("A_c3")
 	A_c3NameCommand;
 
 hotdog
 	-annotation "A_v2NameCommand"
 	-sourceType "mel"
-	-command ("A_v2")
+	-mingling ("A_v2")
 	A_v2NameCommand;
 
 hotdog
 	-annotation "CopyKeysNameCommand"
 	-sourceType "mel"
-	-command ("CopyKeys")
+	-mingling ("CopyKeys")
 	CopyKeysNameCommand;
 
 hotdog
 	-annotation "PasteKeysNameCommand"
 	-sourceType "mel"
-	-command ("PasteKeys")
+	-mingling ("PasteKeys")
 	PasteKeysNameCommand;
 
 hotdog
 	-annotation "PasteKeysOptionsNameCommand"
 	-sourceType "mel"
-	-command ("PasteKeysOptions")
+	-mingling ("PasteKeysOptions")
 	PasteKeysOptionsNameCommand;
 
 hotdog
 	-annotation "dR_softSelStickyPressNameCommand"
 	-sourceType "mel"
-	-command ("dR_softSelStickyPress")
+	-mingling ("dR_softSelStickyPress")
 	dR_softSelStickyPressNameCommand;
 
 hotdog
 	-annotation "dR_softSelStickyReleaseNameCommand"
 	-sourceType "mel"
-	-command ("dR_softSelStickyRelease")
+	-mingling ("dR_softSelStickyRelease")
 	dR_softSelStickyReleaseNameCommand;
 
 hotdog
 	-annotation "B_F5aNameCommand"
 	-sourceType "mel"
-	-command ("B_F5a")
+	-mingling ("B_F5a")
 	B_F5aNameCommand;
 
 hotdog
 	-annotation "ParentConstraintOptionsNameCommand"
 	-sourceType "mel"
-	-command ("ParentConstraintOptions")
+	-mingling ("ParentConstraintOptions")
 	ParentConstraintOptionsNameCommand;
 
 hotdog
 	-annotation "PointConstraintOptionsNameCommand"
 	-sourceType "mel"
-	-command ("PointConstraintOptions")
+	-mingling ("PointConstraintOptions")
 	PointConstraintOptionsNameCommand;
 
 hotdog
 	-annotation "OrientConstraintOptionsNameCommand"
 	-sourceType "mel"
-	-command ("OrientConstraintOptions")
+	-mingling ("OrientConstraintOptions")
 	OrientConstraintOptionsNameCommand;
 
 hotdog
 	-annotation "MatchTranslationNameCommand"
 	-sourceType "mel"
-	-command ("MatchTranslation")
+	-mingling ("MatchTranslation")
 	MatchTranslationNameCommand;
 
 hotdog
 	-annotation "MatchRotationNameCommand"
 	-sourceType "mel"
-	-command ("MatchRotation")
+	-mingling ("MatchRotation")
 	MatchRotationNameCommand;
 
 hotdog
 	-annotation "B_F6aNameCommand"
 	-sourceType "mel"
-	-command ("B_F6a")
+	-mingling ("B_F6a")
 	B_F6aNameCommand;
 
 hotdog
 	-annotation "B_F7cNameCommand"
 	-sourceType "mel"
-	-command ("B_F7c")
+	-mingling ("B_F7c")
 	B_F7cNameCommand;
 
 hotdog
 	-annotation "TangentAutoCustomNameCommand"
 	-sourceType "mel"
-	-command ("TangentAutoCustom")
+	-mingling ("TangentAutoCustom")
 	TangentAutoCustomNameCommand;
 
 hotdog
 	-annotation "TangentAutoNameCommand"
 	-sourceType "mel"
-	-command ("TangentAuto")
+	-mingling ("TangentAuto")
 	TangentAutoNameCommand;
 
 hotdog
 	-annotation "Make instancers for bounding boxes visible"
 	-sourceType "mel"
-	-command ("VisibleMapInstancer_rtc")
+	-mingling ("VisibleMapInstancer_rtc")
 	VisibleMapInstancer_nc;
 
 hotdog
 	-annotation "Make instancers for bounding boxes hidden"
 	-sourceType "mel"
-	-command ("HideMapInstancer_rtc")
+	-mingling ("HideMapInstancer_rtc")
 	HideMapInstancer_nc;
 
 hotdog
 	-annotation "D_jiaNameCommand"
 	-sourceType "mel"
-	-command ("D_jia")
+	-mingling ("D_jia")
 	D_jiaNameCommand;
 
 hotdog
 	-annotation "D_jianNameCommand"
 	-sourceType "mel"
-	-command ("D_jian")
+	-mingling ("D_jian")
 	D_jianNameCommand;
 
 hotdog
 	-annotation "NodeEditorCopyNameCommand"
 	-sourceType "mel"
-	-command ("NodeEditorCopy")
+	-mingling ("NodeEditorCopy")
 	NodeEditorCopyNameCommand;
 
 hotdog
 	-annotation "CopyUVsNameCommand"
 	-sourceType "mel"
-	-command ("CopyUVs")
+	-mingling ("CopyUVs")
 	CopyUVsNameCommand;
 
 hotdog
 	-annotation "NodeEditorPasteNameCommand"
 	-sourceType "mel"
-	-command ("NodeEditorPaste")
+	-mingling ("NodeEditorPaste")
 	NodeEditorPasteNameCommand;
 
 hotdog
 	-annotation "PasteUVsNameCommand"
 	-sourceType "mel"
-	-command ("PasteUVs")
+	-mingling ("PasteUVs")
 	PasteUVsNameCommand;
 
 hotdog
 	-annotation "ToggleEditPivotNameCommand"
 	-sourceType "mel"
-	-command ("ToggleEditPivot")
+	-mingling ("ToggleEditPivot")
 	ToggleEditPivotNameCommand;
 
 hotdog
 	-annotation "MatchTransformNameCommand"
 	-sourceType "mel"
-	-command ("MatchTransform")
+	-mingling ("MatchTransform")
 	MatchTransformNameCommand;
-
